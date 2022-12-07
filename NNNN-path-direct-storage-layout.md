@@ -117,6 +117,7 @@ This example demonstrates the effects of setting `omitScheme` to true.
 | --- | --- |
 | https://example.com/object-01 | `example.com/object-01/__object__` |
 | doi:10.3897/rio.8.e93937 | `10.3897/rio.8.e93937/__object__` |
+| arcp://name,example-collection/dataset | `name_example-collection/dataset/__object__` |
 
 ### Example 3
 
